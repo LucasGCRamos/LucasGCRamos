@@ -2,7 +2,7 @@
 
 **`Desenvolvedor BackEnd`**
 
-Me chamo Lucas Gabriel Carvalho dos Ramos, tenho 21 anos e sou natural de Recife. Atualmente, estou cursando Sistemas de Informação na UFRPE. 
+Me chamo Lucas Gabriel, tenho 21 anos e sou natural de Recife. Atualmente, estou cursando Sistemas de Informação na UFRPE. 
 
 No momento stou estudando C# com foco na plataforma .NET, interessado em aplicações voltadas para a nuvem com integração ao Microsoft Azure.
 
