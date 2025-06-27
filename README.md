@@ -96,13 +96,4 @@ Sou apaixonado por tecnologia e compartilho meu conhecimentos e projetos aqui no
     style="padding-right: 10px;" 
     src="https://github-readme-stats.vercel.app/api?username=LucasGCRamos&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
   />
-
-<img 
-      align="left" 
-      alt="GitHub Stats" 
-      height="200"
-      style="padding-right: 10px;" 
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=LucasGCRamos&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
-  />
-
 </p>
