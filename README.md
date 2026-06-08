@@ -1,99 +1,159 @@
-# Lucas Carvalho
+<h1 align="center">Lucas G. Carvalho</h1>
 
-**`Desenvolvedor BackEnd`**
+<h3 align="center">
+ Inteligência Artificial • NLP • Machine Learning • IA Generativa
+</h3>
 
-Me chamo Lucas Gabriel, tenho 21 anos e sou natural de Recife. Atualmente, estou cursando Sistemas de Informação na UFRPE. 
+<p align="center">
+Desenvolvendo soluções inteligentes com Machine Learning, Processamento de Linguagem Natural e Sistemas Baseados em IA.
+</p>
 
-No momento stou estudando C# com foco na plataforma .NET, interessado em aplicações voltadas para a nuvem com integração ao Microsoft Azure.
+<p align="center">
+  <a href="https://www.linkedin.com/in/lucas-carvalho-r1507/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="mailto:gabriellucas201665@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+</p>
 
-Sou apaixonado por tecnologia e compartilho meu conhecimentos e projetos aqui no GitHub e linkedin.
+---
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lucas-carvalho-r1507/)
+## 👨‍💻 Sobre Mim
 
-### 🤖 Linguagens e Tecnologias
+ Graduando em **Sistemas de Informação** pela **UFRPE**
 
-<img 
-    align="left" 
-    alt="Git" 
-    title="Git"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="Python" 
-    title="Python"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="Pandas" 
-    title="Pandas"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pandas/pandas-original.svg" 
-/>
-          
-<img 
-    align="left" 
-    alt="NumPy" 
-    title="NumPy"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/numpy/numpy-original.svg" 
-/>
+ Atualmente atuo como **Residente em Inteligência Artificial no SiDi (Programa TIC 44)**
 
-<img 
-    align="left" 
-    alt="Plotly" 
-    title="Plotly"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/plotly/plotly-original.svg" 
-/>
-          
-<img 
-    align="left" 
-    alt="MySQL" 
-    title="MySQL"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" 
-/>
+ Possuo experiência em pesquisa científica, modelagem computacional, análise de dados e desenvolvimento de soluções baseadas em IA.
 
-<img 
-    align="left" 
-    alt="Flutter" 
-    title="Flutter"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/flutter/flutter-original.svg" 
-/>
+ Principais áreas de atuação:
 
-<img 
-    align="left" 
-    alt="C#" 
-    title="C#"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg" 
-/>
+- Inteligência Artificial
+- Processamento de Linguagem Natural (NLP)
+- Machine Learning
+- IA Generativa
+- Deep Learning
+- Visão Computacional
+- Engenharia de Dados
+- MLOps
 
-          
-<br/>
-<br/>
+ Interesse em arquiteturas escaláveis de IA, Cloud Computing e sistemas orientados a dados.
 
-### 📊 Estatísticas
+---
+
+## Experiência
+
+### Residente em Inteligência Artificial | SiDi
+
+- Desenvolvimento de soluções utilizando Machine Learning
+- Aplicações com NLP e IA Generativa
+- Deep Learning e Transformers
+- Visão Computacional
+- Big Data com Spark e Hadoop
+- Cloud Computing (AWS, Azure e GCP)
+- APIs e práticas de MLOps
+
+### Desenvolvedor de Processos | Bio Fábrica de Corais
+
+- Modelagem de processos BPMN
+- Desenvolvimento de automações
+- Integrações entre sistemas corporativos
+- Monitoramento de indicadores e SLAs
+- Arquitetura de fluxos utilizando Monday.com
+
+---
+
+## Tecnologias
+
+### Inteligência Artificial e Machine Learning
 
 <p>
-  <img 
-    align="left" 
-    alt="GitHub Stats" 
-    height="200" 
-    style="padding-right: 10px;" 
-    src="https://github-readme-stats.vercel.app/api?username=LucasGCRamos&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
-  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="45"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" width="45"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/scikitlearn/scikitlearn-original.svg" width="45"/>
 </p>
+
+**Python • PyTorch • Scikit-Learn • NLP • Transformers • Deep Learning • IA Generativa**
+
+---
+
+### Dados e Engenharia de Dados
+
+<p>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" width="45"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" width="45"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="45"/>
+</p>
+
+**Pandas • NumPy • SQL • PostgreSQL • NoSQL • Spark • Hadoop • Data Pipelines**
+
+---
+
+### Cloud e Ferramentas
+
+<p>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="45"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="45"/>
+</p>
+
+**Git • GitHub • AWS • Azure • GCP • APIs • MLOps**
+
+---
+
+## 📂 Projetos em Destaque
+
+### Predição de Evasão Estudantil
+
+Projeto de Machine Learning desenvolvido para identificar padrões associados à evasão acadêmica.
+
+**Principais atividades:**
+
+- Análise exploratória de dados
+- Clusterização de estudantes
+- Modelos de classificação
+- Avaliação de desempenho
+- Dashboard interativo com Streamlit
+
+**Tecnologias**
+
+`Python` `Pandas` `Scikit-Learn` `Streamlit`
+
+---
+
+### Plataforma de Banco de Dados para Filmes
+
+Projeto acadêmico focado em modelagem e armazenamento de dados.
+
+**Principais atividades:**
+
+- Modelagem relacional
+- Arquitetura NoSQL
+- Integridade dos dados
+- Controle de versão com Git
+
+**Tecnologias**
+
+`PostgreSQL` `RavenDB` `Git`
+
+---
+
+## Certificações
+
+- Capacitação Técnica e Empreendedora em Inteligência Artificial — FDTE/USP (2026)
+- Trilha de Aceleração de Carreira em Engenharia de Qualidade de Software — CESAR School (2025)
+- AWS Academy Cloud Foundations (2024)
+- Técnicas de Machine Learning — Senac (2023)
+
+---
+
+## 📊 GitHub
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=LucasGCRamos&theme=tokyonight&hide_border=true"/>
+</p>
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=LucasGCRamos&theme=github_dark"/>
+</p>
+---
